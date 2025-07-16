@@ -1,5 +1,5 @@
 - 👋 Hi,
 - 👀 I’m interested in continued learning and betterment of ones self. 
-- 🌱 I’m currently learning the basics of HTML, CSS and JavaScript.
+- 🌱 I’m currently learning as we go
 - 💞️ I’m looking to collaborate on anything to better my skillset.
 - 📫 Reach me on Github untill further notice.
